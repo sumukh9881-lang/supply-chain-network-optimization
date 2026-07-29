@@ -1,5 +1,4 @@
-# supply-chain-network-optimization
-Linear programming model to optimize warehouse locations and distribution routing for an automotive component manufacturer.
+
 # Supply Chain Network Optimization — Automotive Component Manufacturer
 
 A linear programming model that determines the optimal warehouse network and shipment routing strategy for a hypothetical automotive component manufacturer, built using Python and PuLP.
